@@ -26,8 +26,3 @@ Feel free to connect with me or share your solutions:
 - **LinkedIn**: [Eklavya Sood](https://www.linkedin.com/in/eklavya-sood-28261b221/)
 
 Let’s tackle these challenges together! 🚀
-
----
-
-> Note: Solutions are licensed under the [MIT License](LICENSE).
-
