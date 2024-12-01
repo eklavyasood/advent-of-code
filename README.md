@@ -17,15 +17,17 @@ The repository is organized by days, with each day's puzzle solutions in its own
 ```
 .
 ├── Day01
-│   ├── inputs.txt
 │   ├── part1.cpp
-│   └── part2.cpp
+│   ├── part1
+│   ├── part2.cpp
+│   └── part2
 ...
 ```
 
-- **`inputs.txt`**: Contains the input data for the day's puzzle.
 - **`part1.cpp`**: Contains the C++ solution for the first puzzle.
 - **`part2.cpp`**: Contains the C++ solution for the second puzzle.
+- **`part1`**: The result binary of the first puzzle of the day.
+- **`part2`**: The result binary of the second puzzle of the day.
 
 ## How to Run
 To compile and run a solution, navigate to the respective day’s directory and use a C++ compiler (e.g., `g++`):
