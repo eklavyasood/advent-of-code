@@ -34,8 +34,8 @@ To compile and run a solution, navigate to the respective day’s directory and 
 
 ```bash
 cd day1
-g++ partx.cpp -o partx
-./partx
+g++ part1.cpp -o part1
+./part1
 ```
 
 ## Progress
