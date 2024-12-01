@@ -14,8 +14,8 @@ Given a text file input consisting of two rows of numbers in the following forma
 3   3
 ```
 
-- Parse this file into two lists that contain one of the rows of input each. 
-- Sort both the lists.
+- **Parse** this file into two lists that contain **one of the rows of input each**. 
+- **Sort** both the lists.
 - Pair up the numbers and measure how far apart they are. Pair the
   **smallest left number** with the **smallest right number**,
   then the **second-smallest left number** with the 
