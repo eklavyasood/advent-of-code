@@ -7,12 +7,15 @@ This repository contains my solutions for the **Advent of Code** challenges, org
 The current branch, **2024**, features solutions written in **C++**. Check out the branch for:
 
 - Code implementations for daily challenges.
-- Input files used for testing.
+- Binaries for each puzzle.
 
 You can navigate to the 2024 branch here: [2024 Branch](https://github.com/eklavyasood/advent-of-code/tree/2024)
 
 ## Previous Years
 2024 is my first time participating in the Advent of Code.
+The code for every year's Advent puzzles is stored in a branch named by year. <br>
+*Every year's chosen language:*
+- **2024: C++**
 
 ## About Advent of Code
 Advent of Code is an annual event with a series of daily programming puzzles released in December. It’s an excellent opportunity for developers of all skill levels to improve their coding abilities while having fun.
